@@ -1,3 +1,4 @@
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Fadhly Ramadhan</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop.png" />
