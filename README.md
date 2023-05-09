@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmdhnz&label=Profile%20views&color=0e75b6&style=flat" alt="rmdhnz" /> </p>
 
-- 🌱 I’m currently learning **React Js, Laravel**
+- 🌱 I’m currently learning **Front-End and Back-End Development such as React, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://divspan.netlify.app/](https://divspan.netlify.app/)
 
