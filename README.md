@@ -1,6 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Fadhly Ramadhan</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
+<hr/>
 <img align="right" style="border-radius:25px;" width="400" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmdhnz&label=Profile%20views&color=0e75b6&style=flat" alt="rmdhnz" /> </p>
