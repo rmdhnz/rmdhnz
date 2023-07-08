@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-End and Back-End Development such as React, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://divspan.netlify.app/](https://divspan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://divspan.vercel.app/](https://divspan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
