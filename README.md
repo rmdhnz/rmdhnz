@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,go,cpp,html,css,js,react,docker,mysql,postgres,mongodb,redis,firebase,rabbitmq,matlab,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,go,cpp,html,css,js,react,docker,mysql,postgres,oracle,mongodb,redis,firebase,rabbitmq,matlab,ubuntu" />
 </p>
 
 ---
